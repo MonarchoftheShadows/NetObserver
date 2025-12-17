@@ -4,8 +4,6 @@
 
 NetObserver is a **PyQt6-based graphical application** for **authorized, defensive network monitoring**, incident response, and forensic triage. It provides real-time visibility into network activity, highlights suspicious patterns, and helps security practitioners investigate potential threats — without offensive or intrusive capabilities.
 
-![netobserver1](https://github.com/user-attachments/assets/aa1cf80c-b4e9-43ba-b08c-2ea6a669b5a0)
-
 ---
 
 ## 🚨 Legal & Ethical Notice
@@ -239,5 +237,6 @@ NetObserver is released under the **GNU General Public License (GPL)**.
 This software is provided **"as is"**, without warranty of any kind. The authors are **not responsible for misuse**, legal violations, or damages resulting from improper or unauthorized use.
 
 **Always obtain proper authorization before monitoring any network.**
+
 
 
