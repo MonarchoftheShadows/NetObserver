@@ -1,0 +1,6 @@
+
+# file: requirements.txt
+
+PyQt6>=6.4.0
+pyshark>=0.6
+scapy>=2.5.0
